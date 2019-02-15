@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/word_add"
+        android:title="Szó hozzáadása" />
+    <item
+        android:id="@+id/word_clear"
+        android:title="Szavak törlése" />
+    <item
+        android:id="@+id/word_view"
+        android:title="Szavak áttekintése" />
+
+</menu>
